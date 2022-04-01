@@ -1,0 +1,20 @@
+/* styles.css */
+/*
+p {
+  color: red;
+}
+*/
+  
+
+
+#rockBtn {
+  background: brown;
+  border: 5;
+  line-height: 1;
+  color: white;
+  text-align: center;
+  outline: 0;
+  padding: 3;
+  cursor: pointer;
+  max-width: 50px;
+}
